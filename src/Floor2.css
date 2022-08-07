@@ -1,0 +1,136 @@
+.containerF2{
+    display: flex;
+    position: absolute;
+    height: 1093px;
+    width: 100vw;
+    background: linear-gradient(5.64deg, #E8F5FB 34.27%, rgba(255, 255, 255, 0) 94.95%);
+}
+.right {
+    height: 543px;
+    width: 50vw;
+    /* background-color: blue; */
+}
+.left{
+    height: 543px;
+    width: 50vw;
+    text-align: left;
+}
+.kuikma{
+    position: absolute;
+    width: 580px;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    background: url('../public/kuikma.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 4px 4px 4px 0px;
+    margin: 53px 0px 0px 70px;
+
+}
+.containerLine, .containerTitleF2, .containerSentence1F2, .containerSentence2F2{
+    width: 100%;
+    padding-left: 10%;
+    background-color: red;
+}
+.line{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 53px;
+    background: #007DBC;
+}
+.titleF2{
+    position: absolute;
+    top: 85px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0.27px;
+    text-transform: uppercase;
+}
+.sentence1F2{
+    position: absolute;
+    top: 161px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+.sentence2F2{
+    position: absolute;
+    top: 226px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+/* ----------------------------Down-------------------- */
+.down{
+    display: block;
+    position: relative;
+    height: 542px;
+    width: 100vw;
+    top: 510px;
+    /* background-color: yellow; */
+}
+.line2{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    right: 47%;
+    background: #007DBC;
+}
+.titleF2down{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    letter-spacing: 0.27px;
+    text-transform: uppercase;
+    padding-top: 32px;
+}
+.gammeContainer{
+    height: 400px;;
+    width: 100vw;
+    align-items: center;
+    justify-content:center;
+    margin: 0;
+    margin-top: 10px;
+}
+.gammeImg{
+    width: 230px;
+    height: 300px;
+    margin-top: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px 5px 5px 0px;
+}
+.gammeTxt{  
+    height: 50px;
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.raquet{
+    position: absolute;
+    width: 120px;
+    height: 140px;
+    top: 50px;
+    left: 1300px;
+    background: url('../public/raquet.png');
+    background-size:100%;
+    background-position: center;
+}

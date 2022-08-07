@@ -1,0 +1,39 @@
+{
+    "data": {
+        "floorTitle": "Découvrez la gamme Expert Kuikma",
+        "categories": [
+            {
+                "title": "NOS RAQUETTES EXPERTES KUIKMA",
+                "link": "https://www.decathlon.be/fr/browse/b/kuikma/c0-tous-les-sports/c1-padel/c3-raquettes-de-padel-adulte/_/N-19mnmtmZ1hllbm6Z1ncdzyn",
+                "image": {
+                    "resource": "https://contents.mediadecathlon.com/s924422/k$33943f42b97d8d096203ef4e280bc941/raquettes%20boutique%20KUIKMA.png?format=auto",
+                    "alt": "raquettes de padel"
+                }
+            },
+            {
+                "title": "NOS BALLES DE PADEL",
+                "link": "https://www.decathlon.be/fr/browse/c0-tous-les-sports/c1-padel/c2-balles-de-padel/_/N-1yvxcfg",
+                "image": {
+                    "resource": "https://contents.mediadecathlon.com/s924421/k$da89a8930c362a09ab294b1bd4ac0aff/chaussures%20boutique%20KUIKMA.png?format=auto",
+                    "alt": "balles de padel"
+                }
+            },
+            {
+                "title": "NOS CHAUSSURES EXPERTES KUIKMA",
+                "link": "https://www.decathlon.be/fr/browse/b/kuikma/c0-tous-les-sports/c1-padel/c2-chaussures-de-padel/_/N-19mnmtmZjig9bgZ1ncdzyn",
+                "image": {
+                    "resource": "https://contents.mediadecathlon.com/s925769/k$453593781852e501f61b0bc3386de667/landing%20wpt%20%20%20chaussures%20990.jpg?format=auto",
+                    "alt": "chaussures de padel"
+                }
+            },
+            {
+                "title": "NOS SACS KUIKMA",
+                "link": "https://www.decathlon.be/fr/browse/b/kuikma/c0-tous-les-sports/c1-padel/c3-sacs-de-padel/_/N-19mnmtmZz6o2zk",
+                "image": {
+                    "resource": "https://contents.mediadecathlon.com/s924420/k$6aa26928def6042f252ab67a60f43735/sac%20boutique%20KUIKMA.png?format=auto",
+                    "alt": "sacs raquette de padel"
+                }
+            }
+        ]
+    }
+}

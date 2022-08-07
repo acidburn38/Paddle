@@ -1,0 +1,55 @@
+{
+    "data": {
+        "floorTitle": "Nos conseils sports",
+        "articles": [
+            {
+                "title": "Sports collectifs à l’arrêt : Quelles alternatives trouver ?",
+                "url": "https://www.decathlon.be/fr/c/disc/sports-collectifs-a-l-arret-quelles-alternatives-trouver_803a5e7e-4928-4923-8bcd-00c1e2d9132d",
+                "summary": "Quelle période bizarre pour le sport amateur que cette année 2020.. Maintenant que les sports collectifs sont à l’arrêt, beaucoup se demandent s’il vont reprendre un jour. Nous nous sommes demandé comment nos joueurs du dimanche se débrouillent depuis le début de cette période particulière. Nous avons rencontré Joris, un Gantois de 29 ans qui aime tous les sports mais surtout le football. Il a voulu nous dire ce qui lui manque le plus et ce qu'il fait maintenant.",
+                "image": {
+                    "media": {
+                        "resource": "https://contents.mediadecathlon.com/s847786/k$3a7308aaed09da67790ad79ab62d9f9d",
+                        "alt": "Sports collectifs à l’arrêt : Quelles alternatives trouver ?",
+                        "extension": "jpg"
+                    }
+                }
+            },
+            {
+                "title": "Padel ou tennis ? Quel sport vous convient le mieux ?",
+                "url": "https://www.decathlon.be/fr/c/htc/padel-ou-tennis-quel-sport-vous-convient-le-mieux_80000e70-1dde-45cb-94dd-8f7d71ac474a",
+                "summary": "Bien que ressemblants, le tennis et le padel sont avant tout des sports cousins qui se distinguent surtout par leurs différences.",
+                "image": {
+                    "media": {
+                        "resource": "https://contents.mediadecathlon.com/p1508529/k$fadc65455ee9de34df3597681019284a",
+                        "alt": "Padel ou tennis ? Quel sport vous convient le mieux ?",
+                        "extension": "jpg"
+                    }
+                }
+            },
+            {
+                "title": "Padel ou paddle ? Et pourquoi pas les deux ?",
+                "url": "https://www.decathlon.be/fr/c/disc/padel-ou-paddle-et-pourquoi-pas-les-deux_a5e93e06-b11d-45f4-b644-333b1a85de04",
+                "summary": "Le padel (sport de raquette) et le paddle (sport nautique) sont à la mode. Et si vous profitiez de cet été pour tester les deux ?",
+                "image": {
+                    "media": {
+                        "resource": "https://contents.mediadecathlon.com/s852736/k$a864e062a0e87555054f92ee4695668e",
+                        "alt": "Padel ou paddle ? Et pourquoi pas les deux ?",
+                        "extension": "jpg"
+                    }
+                }
+            },
+            {
+                "title": "Comment combiner le sport et les réunions de travail ?",
+                "url": "https://www.decathlon.be/fr/c/exe/comment-combiner-le-sport-et-les-reunions-de-travail_5706a6ce-1038-4835-a736-c5331b4f5985",
+                "summary": "Avec l'instauration généralisée du télétravail, nous passons à présent un temps considérable devant nos écrans de visioconférence. Existe-t-il une alternative ? Et si nous profitions de nos réunions pour faire un peu de sport ?",
+                "image": {
+                    "media": {
+                        "resource": "https://contents.mediadecathlon.com/p1791374/k$1a121586b2cacfc950f007bc57e8ab5f",
+                        "alt": "Comment combiner le sport et les réunions de travail ?",
+                        "extension": "jpg"
+                    }
+                }
+            }
+        ]
+    }
+}
